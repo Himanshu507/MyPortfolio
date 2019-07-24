@@ -10,7 +10,7 @@ export default () => (
         style={{ height: "100%", width: "100%" }}
       >
           <h1 class="header__heading">Himanshu</h1>
-          <p class="header__para">Android and Web Developer</p>
+          <p class="header__para">Android Developer</p>
       </Tilt>
    
    
